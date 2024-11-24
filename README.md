@@ -1,5 +1,8 @@
 # Restaurant Dataset Analysis  
 
+![Screenshot 2024-11-24 184229](https://github.com/user-attachments/assets/e684c8dd-34b0-4962-a3da-78b97c890237)
+
+
 ## Overview  
 This repository contains an in-depth analysis of a restaurant dataset comprising 17,304 rows and 22 columns. The dataset provides insights into various restaurant attributes such as location, cuisine types, pricing, ratings, and customer reviews. The primary goal of this analysis is to identify key trends, relationships, and anomalies to better understand the restaurant industry dynamics.
 
